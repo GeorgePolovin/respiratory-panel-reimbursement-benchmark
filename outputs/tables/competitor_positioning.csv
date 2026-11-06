@@ -1,0 +1,11 @@
+company,product,targets,minutes,waived
+Study company,Study panel,22,45,False
+Study company,POC panel,15,15,True
+QIAGEN,QIAstat-Dx Resp. Panel Plus,21,60,False
+Roche,cobas eplex RP3,19,120,False
+Diasorin (Luminex),LIAISON PLEX Resp. Flex,19,120,False
+Diasorin (Luminex),NxTAG RPP v2 (96-well batch),21,180,False
+BD,BD MAX Resp. Viral Panel,4,120,False
+Cepheid,Xpert Xpress CoV-2/Flu/RSV plus,4,36,True
+Roche,cobas liat SARS-CoV-2/Flu/RSV,4,20,True
+Abbott,ID NOW (one target per test),1,13,True

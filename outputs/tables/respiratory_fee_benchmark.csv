@@ -1,0 +1,14 @@
+hcpcs_code,code_type,test_configuration,minimum_targets,maximum_targets,panel_size_category,competitive_role,effective_date,national_rate,clia_waived_version,study_panel_rate,small_panel_rate,index_vs_study_panel,gap_vs_study_panel_usd,index_vs_small_panel
+87633,GENERIC_CPT,"Respiratory panel, 12-25 targets",12,25,BROAD_MULTIPLEX,Generic code,2026-01-01,416.78,true,416.78,142.63,1.0,0.00,2.92
+study PLA,PLA,Study panel,22,22,BROAD_MULTIPLEX,Study product,2026-01-01,416.78,false,416.78,142.63,1.0,0.00,2.92
+0223U,PLA,QIAGEN QIAstat-Dx Respiratory,22,22,BROAD_MULTIPLEX,Broad competitor,2026-01-01,416.78,false,416.78,142.63,1.0,0.00,2.92
+0225U,PLA,Roche (GenMark) ePlex RP2,21,21,BROAD_MULTIPLEX,Broad competitor,2026-01-01,416.78,false,416.78,142.63,1.0,0.00,2.92
+study PLA,PLA,"Study co. POC panel, resp. menu",15,15,BROAD_MULTIPLEX,Own portfolio,2026-01-01,416.78,true,416.78,142.63,1.0,0.00,2.92
+study PLA,PLA,"Study co. POC panel, throat menu",14,14,BROAD_MULTIPLEX,Own portfolio,2026-01-01,416.78,true,416.78,142.63,1.0,0.00,2.92
+0115U,PLA,Roche (GenMark) ePlex RP,20,20,BROAD_MULTIPLEX,Broad competitor,2026-01-01,275.35,false,416.78,142.63,0.66,-141.43,1.93
+87632,GENERIC_CPT,"Respiratory panel, 6-11 targets",6,11,INTERMEDIATE_PANEL,Targeted substitute,2026-01-01,218.06,false,416.78,142.63,0.52,-198.72,1.53
+0556U,PLA,HealthTrackRx (Thermo Fisher),12,12,BROAD_MULTIPLEX,Broad competitor,2026-01-01,142.63,false,416.78,142.63,0.34,-274.15,1.0
+87631,GENERIC_CPT,"Respiratory panel, 3-5 targets",3,5,SMALL_TARGETED_PANEL,Targeted substitute,2026-01-01,142.63,true,416.78,142.63,0.34,-274.15,1.0
+87637,GENERIC_CPT,SARS-CoV-2 + flu A/B + RSV PCR,4,4,SMALL_TARGETED_PANEL,Targeted substitute,2026-01-01,142.63,true,416.78,142.63,0.34,-274.15,1.0
+87636,GENERIC_CPT,SARS-CoV-2 + flu A/B PCR,3,3,SMALL_TARGETED_PANEL,Targeted substitute,2026-01-01,142.63,true,416.78,142.63,0.34,-274.15,1.0
+87812,GENERIC_CPT,SARS-CoV-2 + flu A/B antigen,3,3,ANTIGEN,Targeted substitute,2026-01-01,74.48,true,416.78,142.63,0.18,-342.30,0.52
